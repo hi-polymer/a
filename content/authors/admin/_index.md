@@ -3,15 +3,18 @@
 title: A L
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: A L
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: A
+last_name: L
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌿
+
+# Is this the primary user of the site?
+superuser: true
 
 # Is this the primary user of the site?
 superuser: true
